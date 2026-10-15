@@ -1,7 +1,7 @@
 # Crêpes
 
 - 250 g de farine
-- 3 œufs
+- 4 œufs
 - 50 cl de lait
 
 Cuisson : 3 min par face, à feu vif.
